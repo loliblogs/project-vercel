@@ -112,17 +112,6 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/project/tags/index.html"/>
-      <url>/project/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>categories</title>
       <link href="/project/categories/index.html"/>
       <url>/project/categories/index.html</url>
@@ -139,6 +128,28 @@
       <url>/project/friends/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/project/tags/index.html"/>
+      <url>/project/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/project/api/status.html"/>
+      <url>/project/api/status.html</url>
+      
+        <content type="html"><![CDATA[<p>OK</p>]]></content>
       
     </entry>
     
